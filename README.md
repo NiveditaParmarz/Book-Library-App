@@ -1,8 +1,6 @@
 # 📚 Book Library App
 
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
-
-
 ![Status](https://img.shields.io/badge/status-active-success)
 
 A simple **Node.js + Express** application to manage your personal book collection.
@@ -86,6 +84,6 @@ book-library-app
 ---
 
 
-⭐ If you like this project, consider **starring the repo**!
+Built with ❤️ by [Nivedita Parmar](https://github.com/NiveditaParmarz)
 
 ---
