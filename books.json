@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1772000006213",
+    "title": "Harry Potter",
+    "author": "J.K Rowling",
+    "status": "Unread",
+    "description": "A fictional childrens book about wizards and magic.",
+    "date": "25/2/2026, 11:43:26 am"
+  },
+  {
+    "id": "1772000036054",
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "status": "Read",
+    "description": "A fictional childrens book about a big, but friendly giant.",
+    "date": "25/2/2026, 11:43:56 am"
+  },
+  {
+    "id": "1772008179629",
+    "title": "The book of magic",
+    "author": "Magician",
+    "status": "Unread",
+    "description": "I wonder what its about?",
+    "date": "25/2/2026, 1:59:39 pm"
+  },
+  {
+    "id": "1772015160812",
+    "title": "hello",
+    "author": "hi",
+    "status": "Unread",
+    "description": "bye",
+    "date": "25/2/2026, 3:56:00 pm"
+  },
+  {
+    "id": "1772030561517",
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "status": "Read",
+    "description": "A fictional book about thrilling wonders uncovered during a historical moment.",
+    "date": "25/2/2026, 8:12:41 pm"
+  }
+]
