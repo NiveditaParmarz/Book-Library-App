@@ -22,11 +22,7 @@ Keep track of what you’ve read, what you’re reading, and what’s still wait
 
 ## 📸 Screenshots
 
-
-```
 <img width="1888" height="975" alt="image" src="https://github.com/user-attachments/assets/9cbf37b6-3ac6-44bd-b6a8-1532d8fd40f8" />
-
-```
 
 ---
 
