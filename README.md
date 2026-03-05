@@ -1,7 +1,8 @@
 # 📚 Book Library App
 
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 ![Status](https://img.shields.io/badge/status-active-success)
 
 A simple **Node.js + Express** application to manage your personal book collection.
@@ -21,13 +22,10 @@ Keep track of what you’ve read, what you’re reading, and what’s still wait
 
 ## 📸 Screenshots
 
-*Add screenshots of your app here*
-
-Example:
 
 ```
-/screenshots/library.png
-/screenshots/add-book.png
+<img width="1888" height="975" alt="image" src="https://github.com/user-attachments/assets/9cbf37b6-3ac6-44bd-b6a8-1532d8fd40f8" />
+
 ```
 
 ---
@@ -91,11 +89,6 @@ book-library-app
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ⭐ If you like this project, consider **starring the repo**!
 
